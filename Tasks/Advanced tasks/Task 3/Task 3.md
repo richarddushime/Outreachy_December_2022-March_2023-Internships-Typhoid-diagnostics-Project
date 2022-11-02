@@ -10,3 +10,19 @@ Incorporate image analysis and prediction into the web application.
 
 ## Attributed Mentor:
 Attributed mentor to get in touch with for this task is **Elisee Jafsia**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
